@@ -1,4 +1,4 @@
-# Algorithms
+  Algorithms
 My personal Java practises for some well-studied algorithms and problems commonly asked in technical interviews
 
 ## My Solutions
@@ -74,3 +74,4 @@ My personal Java practises for some well-studied algorithms and problems commonl
 * Implement a deep-copy method for the class Thing which has a list of Thing objects. Solutions: [**Java**](Java/Thing.java)
 * Given a string, write a function which prints all the subsets of the string.  Now make the function to return only unique solutions. Solutions:  [**Java**](Java/UniqueStringSubsets.java)
 * Given an input string and a dictionary of words, segment the input string into a space-separated sequence of dictionary words if possible. For example, if the input string is `"applepie"` and dictionary contains a standard set of English words, then we would return the string `"apple pie"` as output. ([*Original question*](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)) Solutions: [**Java**](Java/WordBreak.java)
+ 
