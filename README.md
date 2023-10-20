@@ -1,7 +1,7 @@
   Algorithms
 My personal Java practises for some well-studied algorithms and problems commonly asked in technical interviews
 
-!# My Solutions
+*# My Solutions
 * Given a number, return all possible strings that the number could represent if `0 -> {A, B, C}, 2 -> {D, E, F}`, and so on. (Modified from [*Original question*](http://www.glassdoor.com/Interview/phone-numbers-provided-a-phone-number-654-876-0987-return-all-possible-strings-that-the-phone-number-could-represent-QTN_361642.htm)) Solutions: [**Java**](Java/AllPossibleStrings.java)
 * You have a room-full of balances and weights. Each balance weighs ten pounds and is considered perfectly balanced when the sum of weights on its left and right sides are exactly the same. You have placed some weights on some of the balances, and you have placed some of the balances on other balances. Given a description of how the balances are arranged and how much additional weight is on each balance, determine how to add weight to the balances so that they are all perfectly balanced. ([*Original question*](http://www.careercup.com/question?id=12150672)) Solutions: [**Java**](Java/Balance.java)
 * Algorithms on binary trees ([**Java**](Java/BinaryTree.java)). Comprises of the following algorithms:  
@@ -74,4 +74,4 @@ My personal Java practises for some well-studied algorithms and problems commonl
 * Implement a deep-copy method for the class Thing which has a list of Thing objects. Solutions: [**Java**](Java/Thing.java)
 * Given a string, write a function which prints all the subsets of the string.  Now make the function to return only unique solutions. Solutions:  [**Java**](Java/UniqueStringSubsets.java)
 * Given an input string and a dictionary of words, segment the input string into a space-separated sequence of dictionary words if possible. For example, if the input string is `"applepie"` and dictionary contains a standard set of English words, then we would return the string `"apple pie"` as output. ([*Original question*](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)) Solutions: [**Java**](Java/WordBreak.java)
-  
+   
